@@ -1,4 +1,7 @@
 # VINS-Fusion
+## ros-noetic-opencv4 support
+only modified header of opencv and add a euroc.launch for euroc, others remain the same
+
 ## An optimization-based multi-sensor state estimator
 
 <img src="https://github.com/HKUST-Aerial-Robotics/VINS-Fusion/blob/master/support_files/image/vins_logo.png" width = 55% height = 55% div align=left />
